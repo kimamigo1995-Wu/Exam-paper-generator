@@ -1,0 +1,172 @@
+﻿path,subject,book,unit,difficulty,single,groups,subquestions,choice_subquestions,single_prefixes,single_numbered,group_numbered,count_note,answer_single,answer_groups,answer_subquestions,answer_single_letters,explanation_markers,total,tables,media_files,drawing_elements,pict_elements,math_elements,consistent,folder_code_differs
+example/biology/Book 1/1-1多采多姿的生命/中等/d1-2m-題目卷.docx,biology,Book 1,1-1多采多姿的生命,中等,30,3,6,6,30,30,3,,30,3,6,30,33,36,0,3,3,0,0,True,True
+example/biology/Book 1/1-1多采多姿的生命/困難/d1-1h-題目卷.docx,biology,Book 1,1-1多采多姿的生命,困難,8,0,0,0,8,8,0,,8,0,0,8,8,8,0,0,0,0,0,True,False
+example/biology/Book 1/1-1多采多姿的生命/簡單/d1-1e-題目卷.docx,biology,Book 1,1-1多采多姿的生命,簡單,30,1,2,2,30,30,1,,30,1,2,30,31,32,0,2,1,1,0,True,False
+example/biology/Book 1/1-2探究自然科學的方法/中等/d1-2m-題目卷.docx,biology,Book 1,1-2探究自然科學的方法,中等,60,30,78,77,60,60,30,,60,30,78,60,90,138,38,25,11,3,0,True,False
+example/biology/Book 1/1-2探究自然科學的方法/困難/d1-2h-題目卷.docx,biology,Book 1,1-2探究自然科學的方法,困難,5,0,0,0,5,5,0,,5,0,0,5,5,5,1,2,1,0,0,True,False
+example/biology/Book 1/1-2探究自然科學的方法/簡單/d1-2e-題目卷.docx,biology,Book 1,1-2探究自然科學的方法,簡單,40,5,12,12,40,40,5,,40,5,12,40,45,52,3,3,1,0,0,True,False
+example/biology/Book 1/1-3進入實驗室/中等/d1-3m-題目卷.docx,biology,Book 1,1-3進入實驗室,中等,120,20,79,71,120,120,20,,120,20,79,120,140,199,18,157,73,65,0,True,False
+example/biology/Book 1/1-3進入實驗室/困難/d1-3h-題目卷.docx,biology,Book 1,1-3進入實驗室,困難,23,1,3,3,23,23,1,,23,1,3,23,24,26,4,33,20,13,0,True,False
+example/biology/Book 1/1-3進入實驗室/簡單/d1-3e-題目卷.docx,biology,Book 1,1-3進入實驗室,簡單,65,1,2,2,65,65,1,,65,1,2,65,66,67,5,58,23,33,0,True,False
+example/biology/Book 1/2-1生物體的基本單位/中等/d2-1m-題目卷.docx,biology,Book 1,2-1生物體的基本單位,中等,40,5,19,16,40,40,5,,40,5,19,40,45,59,2,21,12,9,0,True,False
+example/biology/Book 1/2-1生物體的基本單位/困難/d2-1h-題目卷.docx,biology,Book 1,2-1生物體的基本單位,困難,4,1,2,2,4,4,1,,4,1,2,4,5,6,1,0,0,0,0,True,False
+example/biology/Book 1/2-1生物體的基本單位/簡單/d2-1e-題目卷.docx,biology,Book 1,2-1生物體的基本單位,簡單,30,3,6,6,30,30,3,,30,3,6,30,33,36,3,34,12,17,0,True,False
+example/biology/Book 1/2-2細胞的構造/中等/d2-2m-題目卷.docx,biology,Book 1,2-2細胞的構造,中等,150,17,49,49,150,150,17,,150,17,49,150,167,199,20,58,27,23,0,True,False
+example/biology/Book 1/2-2細胞的構造/困難/d2-2h-題目卷.docx,biology,Book 1,2-2細胞的構造,困難,11,0,0,0,11,11,0,,11,0,0,11,11,11,2,4,0,1,0,True,False
+example/biology/Book 1/2-2細胞的構造/簡單/d2-2e-題目卷.docx,biology,Book 1,2-2細胞的構造,簡單,47,3,8,8,47,47,3,,47,3,8,47,50,55,1,10,5,6,0,True,False
+example/biology/Book 1/2-3物質進出細胞的方式/中等/d2-3m-題目卷.docx,biology,Book 1,2-3物質進出細胞的方式,中等,138,20,48,42,138,138,20,,138,20,48,138,158,186,9,72,46,20,0,True,False
+example/biology/Book 1/2-3物質進出細胞的方式/困難/d2-3h-題目卷.docx,biology,Book 1,2-3物質進出細胞的方式,困難,17,2,6,6,17,17,2,,17,2,6,17,19,23,1,13,29,2,0,True,False
+example/biology/Book 1/2-3物質進出細胞的方式/簡單/d2-3e-題目卷.docx,biology,Book 1,2-3物質進出細胞的方式,簡單,43,1,2,2,43,43,1,,43,1,2,43,44,45,0,2,1,1,0,True,False
+example/biology/Book 1/2-4生物體的組成層次/中等/d2-4m-題目卷.docx,biology,Book 1,2-4生物體的組成層次,中等,147,20,62,58,147,147,20,,147,20,62,147,166,209,9,66,47,15,0,True,False
+example/biology/Book 1/2-4生物體的組成層次/困難/d2-4h-題目卷.docx,biology,Book 1,2-4生物體的組成層次,困難,21,2,5,5,21,21,2,,21,2,5,21,23,26,0,4,4,0,0,True,False
+example/biology/Book 1/2-4生物體的組成層次/簡單/d2-4e-題目卷.docx,biology,Book 1,2-4生物體的組成層次,簡單,62,1,2,2,62,62,1,,62,1,2,62,63,64,5,6,6,0,0,True,False
+example/biology/Book 1/3-1食物中的養分/中等/d3-1m-題目卷.docx,biology,Book 1,3-1食物中的養分,中等,122,26,75,73,122,122,26,,122,26,75,122,148,197,36,34,11,2,0,True,False
+example/biology/Book 1/3-1食物中的養分/困難/d3-1h-題目卷.docx,biology,Book 1,3-1食物中的養分,困難,20,3,9,7,20,20,3,,20,3,9,20,23,29,3,15,2,6,0,True,False
+example/biology/Book 1/3-1食物中的養分/簡單/d3-1e-題目卷.docx,biology,Book 1,3-1食物中的養分,簡單,83,3,7,7,83,83,3,,83,3,7,83,86,90,5,8,4,2,0,True,False
+example/biology/Book 1/3-2酵素/中等/d3-2m-題目卷.docx,biology,Book 1,3-2酵素,中等,124,33,97,90,124,124,33,,124,33,97,124,157,221,32,61,25,26,0,True,False
+example/biology/Book 1/3-2酵素/困難/d3-2h-題目卷.docx,biology,Book 1,3-2酵素,困難,21,2,6,3,21,21,2,,21,2,6,21,23,27,6,31,22,5,0,True,False
+example/biology/Book 1/3-2酵素/簡單/d3-2e-題目卷.docx,biology,Book 1,3-2酵素,簡單,48,1,3,3,48,48,1,,48,1,3,47,49,51,1,35,16,19,0,True,False
+example/biology/Book 1/3-3植物如何製造養分/中等/d3-3m-題目卷.docx,biology,Book 1,3-3植物如何製造養分,中等,102,33,108,105,102,102,33,,102,33,108,102,134,210,8,92,69,14,0,True,False
+example/biology/Book 1/3-3植物如何製造養分/困難/d3-3h-題目卷.docx,biology,Book 1,3-3植物如何製造養分,困難,24,3,7,7,24,24,3,,24,3,7,24,27,31,3,14,11,3,0,True,False
+example/biology/Book 1/3-3植物如何製造養分/簡單/d3-3e-題目卷.docx,biology,Book 1,3-3植物如何製造養分,簡單,50,0,0,0,50,50,0,,50,0,0,50,50,50,1,2,0,3,0,True,False
+example/biology/Book 1/3-4人體如何獲得養分/中等/d3-4m-題目卷.docx,biology,Book 1,3-4人體如何獲得養分,中等,177,39,134,123,177,177,39,,177,39,134,175,216,311,5,76,37,48,0,True,False
+example/biology/Book 1/3-4人體如何獲得養分/困難/d3-4h-題目卷.docx,biology,Book 1,3-4人體如何獲得養分,困難,30,2,7,0,30,30,2,,30,2,7,30,32,37,1,9,0,8,0,True,False
+example/biology/Book 1/3-4人體如何獲得養分/簡單/d3-4e-題目卷.docx,biology,Book 1,3-4人體如何獲得養分,簡單,43,0,0,0,43,43,0,,43,0,0,43,43,43,1,3,0,3,0,True,False
+example/biology/Book 1/4-1植物的運輸構造/中等/d4-1m-題目卷.docx,biology,Book 1,4-1植物的運輸構造,中等,114,11,37,37,114,114,11,,114,11,37,114,125,151,10,61,43,16,0,True,False
+example/biology/Book 1/4-1植物的運輸構造/困難/d4-1h-題目卷.docx,biology,Book 1,4-1植物的運輸構造,困難,9,2,7,2,9,9,2,,9,2,7,9,11,16,0,5,2,3,0,True,False
+example/biology/Book 1/4-1植物的運輸構造/簡單/d4-1e-題目卷.docx,biology,Book 1,4-1植物的運輸構造,簡單,19,1,7,0,19,19,1,,19,1,7,19,20,26,0,2,1,1,0,True,False
+example/biology/Book 1/4-2植物體內物質的運輸/中等/d4-2m-題目卷.docx,biology,Book 1,4-2植物體內物質的運輸,中等,175,15,47,29,175,175,15,,175,15,47,175,190,222,19,96,41,56,0,True,False
+example/biology/Book 1/4-2植物體內物質的運輸/困難/d4-2h-題目卷.docx,biology,Book 1,4-2植物體內物質的運輸,困難,19,7,15,8,19,19,7,,19,7,15,19,26,34,5,13,5,4,0,True,False
+example/biology/Book 1/4-2植物體內物質的運輸/簡單/d4-2e-題目卷.docx,biology,Book 1,4-2植物體內物質的運輸,簡單,30,3,14,14,30,30,3,,30,3,14,30,33,44,3,9,4,4,0,True,False
+example/biology/Book 1/4-3人體心血管系統的組成/中等/d4-3m-題目卷.docx,biology,Book 1,4-3人體心血管系統的組成,中等,134,32,108,91,134,134,32,第7題組素材內3個疾病列點不是作答小題，已排除,134,32,108,134,166,242,12,56,36,22,0,True,False
+example/biology/Book 1/4-3人體心血管系統的組成/困難/d4-3h-題目卷.docx,biology,Book 1,4-3人體心血管系統的組成,困難,20,0,0,0,20,20,0,,20,0,0,20,20,20,1,2,0,1,0,True,False
+example/biology/Book 1/4-3人體心血管系統的組成/簡單/d4-3e-題目卷.docx,biology,Book 1,4-3人體心血管系統的組成,簡單,66,7,25,25,66,66,7,,66,7,25,66,73,91,6,8,2,6,0,True,False
+example/biology/Book 1/4-4人體ˇ的循環系統/中等/d4-4m-題目卷.docx,biology,Book 1,4-4人體ˇ的循環系統,中等,178,39,139,127,178,178,39,第30題組題目僅3小題，答案列4小題；以題目實存3小題計,178,39,140,178,216,317,10,93,53,40,0,False,False
+example/biology/Book 1/4-4人體ˇ的循環系統/困難/d4-4h-題目卷.docx,biology,Book 1,4-4人體ˇ的循環系統,困難,23,2,5,5,23,23,2,,23,2,5,23,25,28,3,14,6,7,0,True,False
+example/biology/Book 1/4-4人體ˇ的循環系統/簡單/d4-4e-題目卷.docx,biology,Book 1,4-4人體ˇ的循環系統,簡單,39,2,5,5,39,39,2,,39,2,5,39,41,44,1,3,1,2,0,True,False
+example/biology/Book 1/5-1刺激與感應/中等/d5-1m-題目卷.docx,biology,Book 1,5-1刺激與感應,中等,63,6,15,15,63,63,6,,63,6,15,63,68,78,0,18,8,4,0,True,False
+example/biology/Book 1/5-1刺激與感應/困難/d5-1h-題目卷.docx,biology,Book 1,5-1刺激與感應,困難,2,0,0,0,2,2,0,,2,0,0,2,2,2,0,0,0,0,0,True,False
+example/biology/Book 1/5-1刺激與感應/簡單/d5-1e-題目卷.docx,biology,Book 1,5-1刺激與感應,簡單,44,2,4,2,44,44,2,,44,2,4,44,46,48,0,13,9,4,0,True,False
+example/biology/Book 1/5-2神經系統/中等/d5-2m-題目卷.docx,biology,Book 1,5-2神經系統,中等,226,47,154,143,228,226,47,,226,47,154,227,273,380,21,78,38,28,0,True,False
+example/biology/Book 1/5-2神經系統/困難/d5-2h-題目卷.docx,biology,Book 1,5-2神經系統,困難,17,0,0,0,17,17,0,,17,0,0,17,17,17,0,4,1,3,0,True,False
+example/biology/Book 1/5-2神經系統/簡單/d5-2e-題目卷.docx,biology,Book 1,5-2神經系統,簡單,93,3,12,3,93,93,3,,93,3,12,93,95,105,3,11,2,8,0,True,False
+example/biology/Book 1/5-3內分泌系統/中等/d5-3m-題目卷.docx,biology,Book 1,5-3內分泌系統,中等,134,27,100,92,134,134,27,,134,27,100,134,161,234,8,42,29,13,0,True,False
+example/biology/Book 1/5-3內分泌系統/困難/d5-3h-題目卷.docx,biology,Book 1,5-3內分泌系統,困難,12,2,4,3,12,12,2,,12,2,4,12,14,16,1,8,4,1,0,True,False
+example/biology/Book 1/5-3內分泌系統/簡單/d5-3e-題目卷.docx,biology,Book 1,5-3內分泌系統,簡單,89,5,24,24,89,89,5,,89,5,24,89,94,113,1,11,10,3,0,True,False
+example/biology/Book 1/5-4行為與感應/中等/d5-4m-題目卷.docx,biology,Book 1,5-4行為與感應,中等,83,14,32,27,83,83,14,,83,14,32,83,97,115,4,58,45,10,0,True,False
+example/biology/Book 1/5-4行為與感應/困難/d5-4h-題目卷.docx,biology,Book 1,5-4行為與感應,困難,5,0,0,0,5,5,0,,5,0,0,5,5,5,1,2,0,2,0,True,False
+example/biology/Book 1/5-4行為與感應/簡單/d5-4e-題目卷.docx,biology,Book 1,5-4行為與感應,簡單,75,6,23,18,75,75,6,,75,6,23,75,81,98,1,20,5,15,0,True,False
+example/biology/Book 1/6-1呼吸與氣體的恆定/中等/d6-1m-題目卷.docx,biology,Book 1,6-1呼吸與氣體的恆定,中等,199,32,88,77,199,199,32,,199,32,88,199,231,287,11,68,41,23,0,True,False
+example/biology/Book 1/6-1呼吸與氣體的恆定/困難/d6-1h-題目卷.docx,biology,Book 1,6-1呼吸與氣體的恆定,困難,28,2,4,2,28,28,2,,28,2,4,28,30,32,1,8,1,6,0,True,False
+example/biology/Book 1/6-1呼吸與氣體的恆定/簡單/d6-1e-題目卷.docx,biology,Book 1,6-1呼吸與氣體的恆定,簡單,65,3,12,7,65,65,3,,65,3,12,65,68,77,0,19,7,10,0,True,False
+example/biology/Book 1/6-2排泄與水分的恆定/中等/d6-2m-題目卷.docx,biology,Book 1,6-2排泄與水分的恆定,中等,172,18,63,60,172,172,18,,172,18,63,172,190,235,13,46,21,20,0,True,False
+example/biology/Book 1/6-2排泄與水分的恆定/困難/d6-2h-題目卷.docx,biology,Book 1,6-2排泄與水分的恆定,困難,22,1,2,2,22,22,1,,22,1,2,22,23,24,0,2,1,1,0,True,False
+example/biology/Book 1/6-2排泄與水分的恆定/簡單/d6-2e-題目卷.docx,biology,Book 1,6-2排泄與水分的恆定,簡單,58,3,7,7,58,58,3,,58,3,7,58,60,65,1,6,2,4,0,True,False
+example/biology/Book 1/6-3體溫與血糖的恆定/中等/d6-3m-題目卷.docx,biology,Book 1,6-3體溫與血糖的恆定,中等,163,36,109,99,163,163,36,,163,36,109,163,199,272,8,79,50,32,0,True,False
+example/biology/Book 1/6-3體溫與血糖的恆定/困難/d6-3h-題目卷.docx,biology,Book 1,6-3體溫與血糖的恆定,困難,17,3,9,9,17,17,3,,17,3,9,17,20,26,0,6,0,4,0,True,False
+example/biology/Book 1/6-3體溫與血糖的恆定/簡單/d6-3e-題目卷.docx,biology,Book 1,6-3體溫與血糖的恆定,簡單,95,5,22,17,95,95,5,,95,5,22,95,100,117,1,11,6,3,0,True,False
+example/biology/Book 2/1-1細胞的分裂/中等/d1-1m-題目卷.docx,biology,Book 2,1-1細胞的分裂,中等,196,18,64,57,196,196,18,,196,18,64,196,214,260,12,133,50,82,0,True,False
+example/biology/Book 2/1-1細胞的分裂/困難/d1-1h-題目卷.docx,biology,Book 2,1-1細胞的分裂,困難,26,2,6,6,26,26,2,,26,2,6,26,28,32,1,38,20,17,0,True,False
+example/biology/Book 2/1-1細胞的分裂/簡單/d1-1e-題目卷.docx,biology,Book 2,1-1細胞的分裂,簡單,40,0,0,0,40,40,0,,40,0,0,40,39,40,1,20,10,11,0,True,False
+example/biology/Book 2/1-2無性生殖/中等/d1-2m-題目卷.docx,biology,Book 2,1-2無性生殖,中等,132,11,32,31,132,132,11,,132,11,32,132,143,164,17,60,24,37,0,True,False
+example/biology/Book 2/1-2無性生殖/困難/d1-2h-題目卷.docx,biology,Book 2,1-2無性生殖,困難,9,0,0,0,9,9,0,,9,0,0,9,9,9,0,5,0,5,0,True,False
+example/biology/Book 2/1-2無性生殖/簡單/d1-2e-題目卷.docx,biology,Book 2,1-2無性生殖,簡單,74,1,7,0,74,74,1,,74,1,7,74,75,81,8,19,10,10,0,True,False
+example/biology/Book 2/1-3有性生殖/中等/d1-3m-題目卷.docx,biology,Book 2,1-3有性生殖,中等,201,49,148,138,201,201,49,,201,49,148,201,249,349,35,101,46,46,0,True,False
+example/biology/Book 2/1-3有性生殖/困難/d1-3h-題目卷.docx,biology,Book 2,1-3有性生殖,困難,30,1,3,3,30,30,1,,30,1,3,30,31,33,6,6,4,1,0,True,False
+example/biology/Book 2/1-3有性生殖/簡單/d1-3e-題目卷.docx,biology,Book 2,1-3有性生殖,簡單,101,3,14,14,101,101,3,,101,3,14,101,104,115,6,33,14,20,0,True,False
+example/biology/Book 2/2-1遺傳、染色體與基因/中等/d2-1m-題目卷.docx,biology,Book 2,2-1遺傳、染色體與基因,中等,238,30,94,87,238,238,30,,238,30,94,238,268,332,14,149,33,66,0,True,False
+example/biology/Book 2/2-1遺傳、染色體與基因/困難/d2-1h-題目卷.docx,biology,Book 2,2-1遺傳、染色體與基因,困難,34,5,11,11,34,34,5,,34,5,11,34,39,45,5,25,6,13,0,True,False
+example/biology/Book 2/2-1遺傳、染色體與基因/簡單/d2-1e-題目卷.docx,biology,Book 2,2-1遺傳、染色體與基因,簡單,58,2,5,3,58,58,2,,58,2,5,58,59,63,2,18,4,7,0,True,False
+example/biology/Book 2/2-2人類的遺傳/中等/d2-2m-題目卷.docx,biology,Book 2,2-2人類的遺傳,中等,88,25,82,78,88,88,25,,88,25,82,88,112,170,3,113,26,18,0,True,False
+example/biology/Book 2/2-2人類的遺傳/困難/d2-2h-題目卷.docx,biology,Book 2,2-2人類的遺傳,困難,11,1,2,2,11,11,1,,11,1,2,11,12,13,0,6,5,0,0,True,False
+example/biology/Book 2/2-2人類的遺傳/簡單/d2-2e-題目卷.docx,biology,Book 2,2-2人類的遺傳,簡單,35,1,4,4,35,35,1,,35,1,4,35,36,39,0,19,0,5,0,True,False
+example/biology/Book 2/2-3突變與遺傳疾病/中等/d2-3m-題目卷.docx,biology,Book 2,2-3突變與遺傳疾病,中等,91,13,40,40,91,91,13,,91,13,40,91,104,131,1,69,10,21,0,True,False
+example/biology/Book 2/2-3突變與遺傳疾病/困難/d2-3h-題目卷.docx,biology,Book 2,2-3突變與遺傳疾病,困難,15,3,6,6,15,15,3,,15,3,6,15,18,21,0,8,2,4,0,True,False
+example/biology/Book 2/2-3突變與遺傳疾病/簡單/d2-3e-題目卷.docx,biology,Book 2,2-3突變與遺傳疾病,簡單,83,2,7,7,83,83,2,,83,2,7,83,85,90,0,10,4,6,0,True,False
+example/biology/Book 2/2-4生物技術/中等/d2-4m-題目卷.docx,biology,Book 2,2-4生物技術,中等,120,19,52,48,120,120,19,,120,19,52,120,137,172,7,20,7,6,0,True,False
+example/biology/Book 2/2-4生物技術/困難/d2-4h-題目卷.docx,biology,Book 2,2-4生物技術,困難,6,1,2,2,6,6,1,,6,1,2,6,7,8,0,0,0,0,0,True,False
+example/biology/Book 2/2-4生物技術/簡單/d2-4e-題目卷.docx,biology,Book 2,2-4生物技術,簡單,65,0,0,0,65,65,0,,65,0,0,65,65,65,2,5,5,0,0,True,False
+example/biology/Book 2/3-1化石與演化/中等/d3-1m-題目卷.docx,biology,Book 2,3-1化石與演化,中等,60,4,11,11,60,60,4,,60,4,11,60,64,71,0,14,6,7,0,True,False
+example/biology/Book 2/3-1化石與演化/困難/d3-1h-題目卷.docx,biology,Book 2,3-1化石與演化,困難,3,0,0,0,3,3,0,,3,0,0,3,3,3,0,0,0,0,0,True,False
+example/biology/Book 2/3-1化石與演化/簡單/d3-1e-題目卷.docx,biology,Book 2,3-1化石與演化,簡單,69,3,9,9,69,69,3,,69,3,9,69,72,78,0,10,4,6,0,True,False
+example/biology/Book 2/3-2生物的命名與分類/中等/d3-2m-題目卷.docx,biology,Book 2,3-2生物的命名與分類,中等,173,51,157,153,173,173,51,,173,51,157,173,225,330,30,95,49,30,0,True,False
+example/biology/Book 2/3-2生物的命名與分類/困難/d3-2h-題目卷.docx,biology,Book 2,3-2生物的命名與分類,困難,16,5,13,13,16,16,5,,16,5,13,16,21,29,3,13,2,9,0,True,False
+example/biology/Book 2/3-2生物的命名與分類/簡單/d3-2e-題目卷.docx,biology,Book 2,3-2生物的命名與分類,簡單,62,1,2,2,62,62,1,,62,1,2,62,63,64,8,22,10,5,0,True,False
+example/biology/Book 2/3-3原核、原生生物及真菌界/中等/d3-3m-題目卷.docx,biology,Book 2,3-3原核、原生生物及真菌界,中等,221,32,94,92,221,221,32,,221,32,94,221,250,315,15,51,29,19,0,True,False
+example/biology/Book 2/3-3原核、原生生物及真菌界/困難/d3-3h-題目卷.docx,biology,Book 2,3-3原核、原生生物及真菌界,困難,30,1,2,2,30,30,1,,30,1,2,30,31,32,0,7,3,1,0,True,False
+example/biology/Book 2/3-3原核、原生生物及真菌界/簡單/d3-3e-題目卷.docx,biology,Book 2,3-3原核、原生生物及真菌界,簡單,52,2,8,7,52,52,2,,52,2,8,52,53,60,1,15,6,10,0,True,False
+example/biology/Book 2/3-4植物界/中等/d3-4m-題目卷.docx,biology,Book 2,3-4植物界,中等,201,26,102,95,201,201,26,,201,26,102,201,226,303,24,111,48,61,0,True,False
+example/biology/Book 2/3-4植物界/困難/d3-4h-題目卷.docx,biology,Book 2,3-4植物界,困難,16,2,6,3,16,16,2,,16,2,6,16,18,22,0,13,7,5,0,True,False
+example/biology/Book 2/3-4植物界/簡單/d3-4e-題目卷.docx,biology,Book 2,3-4植物界,簡單,59,1,5,5,59,59,1,,59,1,5,59,60,64,3,7,1,5,0,True,False
+example/biology/Book 2/3-5動物界/中等/d3-5m-題目卷.docx,biology,Book 2,3-5動物界,中等,210,21,74,68,210,210,21,,210,21,74,210,231,284,18,52,26,14,0,True,False
+example/biology/Book 2/3-5動物界/困難/d3-5h-題目卷.docx,biology,Book 2,3-5動物界,困難,17,1,2,0,17,17,1,,17,1,2,17,18,19,1,12,9,0,0,True,False
+example/biology/Book 2/3-5動物界/簡單/d3-5e-題目卷.docx,biology,Book 2,3-5動物界,簡單,94,4,13,8,94,94,4,,94,4,13,94,98,107,2,15,5,7,0,True,False
+example/biology/Book 2/4-1族群、群集與演替/中等/d4-1m-題目卷.docx,biology,Book 2,4-1族群、群集與演替,中等,95,19,56,56,95,95,19,,95,19,56,95,114,151,13,35,20,11,0,True,False
+example/biology/Book 2/4-1族群、群集與演替/困難/d4-1h-題目卷.docx,biology,Book 2,4-1族群、群集與演替,困難,7,3,7,7,7,7,3,,7,3,7,7,10,14,3,7,6,0,0,True,False
+example/biology/Book 2/4-1族群、群集與演替/簡單/d4-1e-題目卷.docx,biology,Book 2,4-1族群、群集與演替,簡單,66,5,13,13,66,66,5,,66,5,13,66,71,79,0,15,10,3,0,True,False
+example/biology/Book 2/4-2生物間的互動關係/中等/d4-2m-題目卷.docx,biology,Book 2,4-2生物間的互動關係,中等,83,17,47,45,83,83,17,,83,17,47,83,100,130,9,47,30,9,0,True,False
+example/biology/Book 2/4-2生物間的互動關係/困難/d4-2h-題目卷.docx,biology,Book 2,4-2生物間的互動關係,困難,1,0,0,0,1,1,0,,1,0,0,1,1,1,0,0,0,0,0,True,False
+example/biology/Book 2/4-2生物間的互動關係/簡單/d4-2e-題目卷.docx,biology,Book 2,4-2生物間的互動關係,簡單,65,0,0,0,65,65,0,,65,0,0,65,64,65,1,9,6,2,0,True,False
+example/biology/Book 2/4-3生態系/中等/d4-3m-題目卷.docx,biology,Book 2,4-3生態系,中等,191,34,102,98,191,191,34,,191,34,102,191,225,293,8,86,55,28,0,True,False
+example/biology/Book 2/4-3生態系/困難/d4-3h-題目卷.docx,biology,Book 2,4-3生態系,困難,20,1,2,2,20,20,1,,20,1,2,20,21,22,1,8,6,1,0,True,False
+example/biology/Book 2/4-3生態系/簡單/d4-3e-題目卷.docx,biology,Book 2,4-3生態系,簡單,123,4,9,7,123,123,4,,123,4,9,123,125,132,2,50,28,23,0,True,False
+example/biology/Book 2/4-4生態系的類型/中等/d4-4m-題目卷.docx,biology,Book 2,4-4生態系的類型,中等,107,12,42,42,107,107,12,,107,12,42,107,119,149,5,29,21,11,0,True,False
+example/biology/Book 2/4-4生態系的類型/困難/d4-4h-題目卷.docx,biology,Book 2,4-4生態系的類型,困難,11,1,3,3,11,11,1,,11,1,3,11,12,14,0,4,3,1,0,True,False
+example/biology/Book 2/4-4生態系的類型/簡單/d4-4e-題目卷.docx,biology,Book 2,4-4生態系的類型,簡單,83,4,16,16,83,83,4,,83,4,16,83,87,99,7,10,5,5,0,True,False
+example/biology/Book 2/5-1生物多樣性/中等/d5-1m-題目卷.docx,biology,Book 2,5-1生物多樣性,中等,67,3,8,6,67,67,3,,67,3,8,67,70,75,20,0,0,0,0,True,False
+example/biology/Book 2/5-1生物多樣性/困難/d5-1h-題目卷.docx,biology,Book 2,5-1生物多樣性,困難,6,0,0,0,6,6,0,,6,0,0,6,6,6,0,0,0,0,0,True,False
+example/biology/Book 2/5-1生物多樣性/簡單/d5-1e-題目卷.docx,biology,Book 2,5-1生物多樣性,簡單,59,2,14,7,59,59,2,,59,2,14,59,61,73,0,1,0,1,0,True,False
+example/biology/Book 2/5-2生物多樣性面臨的危機/中等/d5-2m-題目卷.docx,biology,Book 2,5-2生物多樣性面臨的危機,中等,125,24,74,72,125,125,24,,125,24,74,125,149,199,7,65,34,30,0,True,False
+example/biology/Book 2/5-2生物多樣性面臨的危機/困難/d5-2h-題目卷.docx,biology,Book 2,5-2生物多樣性面臨的危機,困難,12,1,2,2,12,12,1,,12,1,2,12,13,14,2,7,5,2,0,True,False
+example/biology/Book 2/5-2生物多樣性面臨的危機/簡單/d5-2e-題目卷.docx,biology,Book 2,5-2生物多樣性面臨的危機,簡單,147,6,13,12,147,147,6,,147,6,13,147,153,160,0,22,17,9,0,True,False
+example/biology/Book 2/5-3保育的落實/中等/d5-3m-題目卷.docx,biology,Book 2,5-3保育的落實,中等,62,24,77,77,62,62,24,,62,24,77,62,86,139,6,10,3,6,0,True,False
+example/biology/Book 2/5-3保育的落實/困難/d5-3h-題目卷.docx,biology,Book 2,5-3保育的落實,困難,6,1,2,2,6,6,1,,6,1,2,6,7,8,0,4,0,0,0,True,False
+example/biology/Book 2/5-3保育的落實/簡單/d5-3e-題目卷.docx,biology,Book 2,5-3保育的落實,簡單,131,2,6,5,131,131,2,,131,2,6,131,133,137,6,0,0,0,0,True,False
+example/earth science/book 5/5-1我們的地球/中等/d5-1m-題目卷.docx,earth science,book 5,5-1我們的地球,中等,109,14,46,40,109,109,14,,109,14,46,109,123,155,4,39,13,25,0,True,False
+example/earth science/book 5/5-1我們的地球/困難/d5-1h-題目卷.docx,earth science,book 5,5-1我們的地球,困難,13,0,0,0,13,13,0,,13,0,0,13,13,13,0,11,1,10,0,True,False
+example/earth science/book 5/5-1我們的地球/簡單/d5-1e-題目卷.docx,earth science,book 5,5-1我們的地球,簡單,97,4,11,8,97,97,4,,97,4,11,97,101,108,3,9,6,2,0,True,False
+example/earth science/book 5/5-2地表的改變與平衡/中等/d5-2m-題目卷.docx,earth science,book 5,5-2地表的改變與平衡,中等,193,15,43,43,193,193,15,,193,15,43,193,208,236,4,102,37,63,0,True,False
+example/earth science/book 5/5-2地表的改變與平衡/困難/d5-2h-題目卷.docx,earth science,book 5,5-2地表的改變與平衡,困難,22,1,2,2,22,22,1,,22,1,2,22,23,24,0,21,5,15,0,True,False
+example/earth science/book 5/5-2地表的改變與平衡/簡單/d5-2e-題目卷.docx,earth science,book 5,5-2地表的改變與平衡,簡單,103,3,8,8,103,103,3,,103,3,8,103,106,111,0,44,13,32,0,True,False
+example/earth science/book 5/5-3岩石與礦物/中等/d5-3m-題目卷.docx,earth science,book 5,5-3岩石與礦物,中等,131,15,43,43,131,131,15,,131,15,43,131,146,174,9,35,17,15,0,True,False
+example/earth science/book 5/5-3岩石與礦物/困難/d5-3h-題目卷.docx,earth science,book 5,5-3岩石與礦物,困難,15,1,2,2,15,15,1,,15,1,2,15,16,17,0,3,1,2,0,True,False
+example/earth science/book 5/5-3岩石與礦物/簡單/d5-3e-題目卷.docx,earth science,book 5,5-3岩石與礦物,簡單,105,6,20,20,105,105,6,,105,6,20,105,111,125,2,5,1,2,0,True,False
+example/earth science/book 5/6-1地球的構造與板塊運動/中等/d6-1m-題目卷.docx,earth science,book 5,6-1地球的構造與板塊運動,中等,118,14,46,40,118,118,14,,118,14,46,118,132,164,6,72,39,34,0,True,False
+example/earth science/book 5/6-1地球的構造與板塊運動/困難/d6-1h-題目卷.docx,earth science,book 5,6-1地球的構造與板塊運動,困難,13,0,0,0,13,13,0,,13,0,0,13,13,13,0,18,6,10,0,True,False
+example/earth science/book 5/6-1地球的構造與板塊運動/簡單/d6-1e-題目卷.docx,earth science,book 5,6-1地球的構造與板塊運動,簡單,56,2,7,7,56,56,2,,56,2,7,56,58,63,1,10,7,3,0,True,False
+example/earth science/book 5/6-2板塊運動與內營力的影響/中等/d6-2m-題目卷.docx,earth science,book 5,6-2板塊運動與內營力的影響,中等,136,17,55,48,136,136,17,,136,17,55,136,153,191,5,106,50,52,0,True,False
+example/earth science/book 5/6-2板塊運動與內營力的影響/困難/d6-2h-題目卷.docx,earth science,book 5,6-2板塊運動與內營力的影響,困難,11,0,0,0,11,11,0,,11,0,0,11,11,11,1,8,4,2,0,True,False
+example/earth science/book 5/6-2板塊運動與內營力的影響/簡單/d6-2e-題目卷.docx,earth science,book 5,6-2板塊運動與內營力的影響,簡單,80,3,11,10,80,80,3,,80,3,11,80,81,91,8,40,17,24,0,True,False
+example/earth science/book 5/6-3岩層的紀錄/中等/d6-3m-題目卷.docx,earth science,book 5,6-3岩層的紀錄,中等,91,17,55,54,91,91,17,,91,17,55,91,108,146,5,80,40,40,0,True,False
+example/earth science/book 5/6-3岩層的紀錄/困難/d6-3h-題目卷.docx,earth science,book 5,6-3岩層的紀錄,困難,9,1,2,2,9,9,1,,9,1,2,9,10,11,1,11,4,7,0,True,False
+example/earth science/book 5/6-3岩層的紀錄/簡單/d6-3e-題目卷.docx,earth science,book 5,6-3岩層的紀錄,簡單,43,1,4,2,43,43,1,,43,1,4,43,44,47,1,27,19,9,0,True,False
+example/earth science/book 5/7-1宇宙與太陽系/中等/d7-1m-題目卷.docx,earth science,book 5,7-1宇宙與太陽系,中等,102,8,24,19,102,102,8,,102,8,24,102,110,126,10,35,12,11,0,True,False
+example/earth science/book 5/7-1宇宙與太陽系/困難/d7-1h-題目卷.docx,earth science,book 5,7-1宇宙與太陽系,困難,14,1,2,2,14,14,1,,14,1,2,14,15,16,0,2,1,1,0,True,False
+example/earth science/book 5/7-1宇宙與太陽系/簡單/d7-1e-題目卷.docx,earth science,book 5,7-1宇宙與太陽系,簡單,71,3,8,7,71,71,3,,71,3,8,71,74,79,4,7,4,0,0,True,False
+example/earth science/book 5/7-2晝夜與四季/中等/d7-2m-題目卷.docx,earth science,book 5,7-2晝夜與四季,中等,123,12,37,37,123,123,12,,123,12,37,123,135,160,12,94,37,53,0,True,False
+example/earth science/book 5/7-2晝夜與四季/困難/d7-2h-題目卷.docx,earth science,book 5,7-2晝夜與四季,困難,17,0,0,0,17,17,0,,17,0,0,17,17,17,1,14,6,3,0,True,False
+example/earth science/book 5/7-2晝夜與四季/簡單/d7-2e-題目卷.docx,earth science,book 5,7-2晝夜與四季,簡單,31,1,3,0,31,31,1,,31,1,3,31,32,34,1,5,3,2,0,True,False
+example/earth science/book 5/7-3日地月的相對運動/中等/d7-3m-題目卷.docx,earth science,book 5,7-3日地月的相對運動,中等,148,29,96,96,148,148,29,,148,29,96,148,178,244,20,127,65,58,0,True,False
+example/earth science/book 5/7-3日地月的相對運動/困難/d7-3h-題目卷.docx,earth science,book 5,7-3日地月的相對運動,困難,20,6,15,12,20,20,6,,20,6,15,20,26,35,3,38,12,23,0,True,False
+example/earth science/book 5/7-3日地月的相對運動/簡單/d7-3e-題目卷.docx,earth science,book 5,7-3日地月的相對運動,簡單,31,0,0,0,31,31,0,,31,0,0,31,31,31,0,13,3,10,0,True,False
+example/earth science/book 6/3-1地球的大氣/中等/d3-1m-題目卷.docx,earth science,book 6,3-1地球的大氣,中等,87,8,21,21,87,87,8,,87,8,21,87,90,108,2,74,40,24,0,True,False
+example/earth science/book 6/3-1地球的大氣/困難/d3-1h-題目卷.docx,earth science,book 6,3-1地球的大氣,困難,7,0,0,0,7,7,0,,7,0,0,7,7,7,0,5,4,0,0,True,False
+example/earth science/book 6/3-1地球的大氣/簡單/d3-1e-題目卷.docx,earth science,book 6,3-1地球的大氣,簡單,79,3,9,5,79,79,3,,79,3,9,79,72,88,0,14,10,4,0,True,False
+example/earth science/book 6/3-2天氣現象/中等/d3-2m-題目卷.docx,earth science,book 6,3-2天氣現象,中等,149,14,42,42,149,149,14,,149,14,42,149,152,191,2,149,91,49,0,True,False
+example/earth science/book 6/3-2天氣現象/困難/d3-2h-題目卷.docx,earth science,book 6,3-2天氣現象,困難,16,2,5,5,16,16,2,,16,2,5,16,17,21,0,20,10,9,0,True,False
+example/earth science/book 6/3-2天氣現象/簡單/d3-2e-題目卷.docx,earth science,book 6,3-2天氣現象,簡單,83,2,7,3,83,83,2,,83,2,7,83,76,90,1,30,20,7,0,True,False
+example/earth science/book 6/3-3氣團與鋒面/中等/d3-3m-題目卷.docx,earth science,book 6,3-3氣團與鋒面,中等,92,16,45,42,92,92,16,,92,16,45,92,101,137,2,125,85,36,0,True,False
+example/earth science/book 6/3-3氣團與鋒面/困難/d3-3h-題目卷.docx,earth science,book 6,3-3氣團與鋒面,困難,12,2,4,4,12,12,2,,12,2,4,12,14,16,1,10,1,8,0,True,False
+example/earth science/book 6/3-3氣團與鋒面/簡單/d3-3e-題目卷.docx,earth science,book 6,3-3氣團與鋒面,簡單,46,8,26,22,46,46,8,,46,8,26,46,50,72,0,36,25,8,0,True,False
+example/earth science/book 6/3-4台灣的災變天氣/中等/d3-4m-題目卷.docx,earth science,book 6,3-4台灣的災變天氣,中等,96,20,59,57,96,96,20,,96,20,59,96,107,155,0,113,76,25,0,True,False
+example/earth science/book 6/3-4台灣的災變天氣/困難/d3-4h-題目卷.docx,earth science,book 6,3-4台灣的災變天氣,困難,9,2,5,5,9,9,2,,9,2,5,9,11,14,0,12,6,3,0,True,False
+example/earth science/book 6/3-4台灣的災變天氣/簡單/d3-4e-題目卷.docx,earth science,book 6,3-4台灣的災變天氣,簡單,73,6,18,18,73,73,6,,73,6,18,73,74,91,0,38,20,16,0,True,False
+example/earth science/book 6/4-1海洋與大氣的互動/中等/d4-1m-題目卷.docx,earth science,book 6,4-1海洋與大氣的互動,中等,63,8,23,23,63,63,8,,63,8,23,63,63,86,0,36,29,6,0,True,False
+example/earth science/book 6/4-1海洋與大氣的互動/困難/d4-1h-題目卷.docx,earth science,book 6,4-1海洋與大氣的互動,困難,3,0,0,0,3,3,0,,3,0,0,3,3,3,0,1,1,0,0,True,False
+example/earth science/book 6/4-1海洋與大氣的互動/簡單/d4-1e-題目卷.docx,earth science,book 6,4-1海洋與大氣的互動,簡單,33,5,16,11,33,33,5,,33,5,16,33,37,49,0,23,18,3,0,True,False
+example/earth science/book 6/4-2全球變遷/中等/d4-2m-題目卷.docx,earth science,book 6,4-2全球變遷,中等,67,9,29,24,67,67,9,,67,9,29,67,67,96,1,26,18,3,0,True,False
+example/earth science/book 6/4-2全球變遷/困難/d4-2h-題目卷.docx,earth science,book 6,4-2全球變遷,困難,4,1,2,2,4,4,1,,4,1,2,4,4,6,0,2,1,1,0,True,False
+example/earth science/book 6/4-2全球變遷/簡單/d4-2e-題目卷.docx,earth science,book 6,4-2全球變遷,簡單,60,5,14,14,60,60,5,,60,5,14,60,53,74,0,17,11,6,0,True,False
+example/earth science/book 6/4-3人與自然的互動/中等/d4-3m-題目卷.docx,earth science,book 6,4-3人與自然的互動,中等,51,7,14,14,51,51,7,,51,7,14,51,48,65,0,54,25,27,0,True,False
+example/earth science/book 6/4-3人與自然的互動/困難/d4-3h-題目卷.docx,earth science,book 6,4-3人與自然的互動,困難,7,0,0,0,7,7,0,,7,0,0,7,7,7,0,10,2,8,0,True,False
+example/earth science/book 6/4-3人與自然的互動/簡單/d4-3e-題目卷.docx,earth science,book 6,4-3人與自然的互動,簡單,100,1,3,3,100,100,1,,100,1,3,100,94,103,1,36,24,9,0,True,False
