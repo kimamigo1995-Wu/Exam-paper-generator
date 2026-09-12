@@ -1,0 +1,52 @@
+{
+  "batch": "20260910_bio_b1_2-2_imageflow",
+  "source_revision_sha256": "E2449EE800F8786CE19FF79DC8D9DC4AC9C6E15E49F971874426F86503DF8827",
+  "assets": [
+    {
+      "asset_id": "BIO_B1_U2-2_M_IMG01",
+      "question_ids": ["BIO_B1_U2-2_M_Q01"],
+      "anchor": ["BIO_B1_U2-2_M_Q01:after_stem"],
+      "request_sha256": "ACEC5C861528597988C1E868F63E0E5D2D5C8D35A6739288C0140531474FEAC3",
+      "status": "inserted",
+      "output": "assets/BIO_B1_U2-2_M_IMG01.png",
+      "asset_sha256": "E9506713A69F07F5928DD899B31D3F8C159CF949B94BC632CD1CA4F932C0F2EF",
+      "actual_size_px": [1800, 1200],
+      "generation_method": "built-in image generation; final PNG scaled proportionally from 1536x1024 to the requested 1800x1200",
+      "caption": "圖 1　植物細胞邊緣的局部示意圖。",
+      "alt": "植物細胞邊緣的局部示意圖，標示甲、乙兩處。",
+      "inspection": {
+        "labels": "通過：僅見繁體中文標籤甲、乙，字形清楚。",
+        "arrows": "通過：兩支右側引線不交叉；甲尖端指向外側較厚的細胞壁區域，乙尖端指向其內側較細的細胞膜線。",
+        "relations": "通過：細胞壁在外、細胞膜緊貼其內側；兩層可區辨。",
+        "grayscale": "通過：黑白灰階對比與輪廓在縮小列印時可讀。",
+        "leakage": "通過：未見構造名稱、功能、答案、勾叉、水印或其他洩題文字。"
+      },
+      "regenerated": false,
+      "last_error": null
+    }
+  ],
+  "word_delivery": {
+    "question_docx": {
+      "path": "生物第一冊_2-2細胞的構造_圖片流程測試題目卷.docx",
+      "sha256": "D76DA40F1018DEA6BE8946430495990DD992A697DE3CBD3C1409BDD910323C96",
+      "embedded_images": 1,
+      "inline_images": 1,
+      "floating_anchors": 0,
+      "placement": "stem -> inline image -> caption -> options table",
+      "alt_text": "植物細胞邊緣的局部示意圖，標示甲、乙兩處。",
+      "structural_qa": "passed",
+      "visual_render": "blocked: bundled renderer has no soffice; Microsoft Word render escalation was rejected by the host usage limit"
+    },
+    "answer_docx": {
+      "path": "生物第一冊_2-2細胞的構造_圖片流程測試解析卷.docx",
+      "sha256": "38CB710C71714FC2EFD9061CB62E401DD0178BCB81D50D44CDCE349EF18B6374",
+      "embedded_images": 0,
+      "inline_images": 0,
+      "floating_anchors": 0,
+      "structural_qa": "passed",
+      "visual_render": "blocked: bundled renderer has no soffice; Microsoft Word render escalation was rejected by the host usage limit"
+    },
+    "status": "needs_render_review",
+    "publication": "Markdown 題本、解析、素材與驗證紀錄可發布；兩份 DOCX 僅留本機，待完成逐頁視覺渲染後再發布。"
+  }
+}
