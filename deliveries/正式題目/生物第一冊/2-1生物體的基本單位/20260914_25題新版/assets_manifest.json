@@ -1,0 +1,166 @@
+{
+  "assets": [
+    {
+      "asset_id": "F01",
+      "question_ids": [
+        "S01"
+      ],
+      "file": "assets/F01.png",
+      "caption": "圖（一）軟木薄片觀察示意",
+      "sha256": "657a05c501274efc29ccd6220fb1f055169d0212902ca513e2e8076f852f0d89",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F02",
+      "question_ids": [
+        "S03"
+      ],
+      "file": "assets/F02.png",
+      "caption": "圖（二）兩種人體細胞示意",
+      "sha256": "d748d377a41ecbac48dcf283dfad01370f7f4492cedc31a9b66f44e85460c2d3",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F03",
+      "question_ids": [
+        "S06"
+      ],
+      "file": "assets/F03.png",
+      "caption": "圖（三）幼根表面局部示意",
+      "sha256": "c99730970b362c49169c40334b3ea188ee3f7a8e7e4b1629c171043315ac94af",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F04",
+      "question_ids": [
+        "S10"
+      ],
+      "file": "assets/F04.png",
+      "caption": "圖（四）封閉培養室中的連續觀察",
+      "sha256": "c27ac5f22250d341b7b8f333e94c33945d656274ee54a156cb04bf75797a9863",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F05",
+      "question_ids": [
+        "S13"
+      ],
+      "file": "assets/F05.png",
+      "caption": "圖（五）人工皮膜處理前後的細胞排列",
+      "sha256": "6f67320330becf1eddc129931266097e1ff0f32bd01621c256e2979b1ea20908",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F06",
+      "question_ids": [
+        "G01",
+        "G02",
+        "G03"
+      ],
+      "file": "assets/F06.png",
+      "caption": "圖（六）同一對保衛細胞的兩個狀態",
+      "sha256": "4c16a25e2d3842d801dabaace22f67a34c76ebd1667e6e7f5ea83e27603bad38",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    },
+    {
+      "asset_id": "F07",
+      "question_ids": [
+        "G04",
+        "G05"
+      ],
+      "file": "assets/F07.png",
+      "caption": "圖（七）兩個細胞影像及各自比例尺",
+      "sha256": "bb1c824e6c8fc120244a9c47087fd1a9193bae4da00825c48c3b12bd1260a737",
+      "status": "validated",
+      "method": "AI image generation",
+      "review": "已開圖檢查輪廓、標記及必要科學關係；F07重新生成後比例尺約為細胞長度四分之一。"
+    }
+  ],
+  "word_positions": [
+    {
+      "asset_id": "F01",
+      "anchor": "S01:after_stem",
+      "question_ids": [
+        "S01"
+      ],
+      "paragraph_index": 14,
+      "width_cm": 6.6000000000000005,
+      "height_cm": 4.4
+    },
+    {
+      "asset_id": "F02",
+      "anchor": "S03:after_stem",
+      "question_ids": [
+        "S03"
+      ],
+      "paragraph_index": 26,
+      "width_cm": 9.44766355140187,
+      "height_cm": 4.4
+    },
+    {
+      "asset_id": "F03",
+      "anchor": "S06:after_stem",
+      "question_ids": [
+        "S06"
+      ],
+      "paragraph_index": 44,
+      "width_cm": 6.6000000000000005,
+      "height_cm": 4.4
+    },
+    {
+      "asset_id": "F04",
+      "anchor": "S10:after_stem",
+      "question_ids": [
+        "S10"
+      ],
+      "paragraph_index": 67,
+      "width_cm": 12.2,
+      "height_cm": 4.246472248353716
+    },
+    {
+      "asset_id": "F05",
+      "anchor": "S13:after_stem",
+      "question_ids": [
+        "S13"
+      ],
+      "paragraph_index": 84,
+      "width_cm": 8.8,
+      "height_cm": 4.4
+    },
+    {
+      "asset_id": "F06",
+      "anchor": "group1:after_context",
+      "question_ids": [
+        "G01",
+        "G02",
+        "G03"
+      ],
+      "paragraph_index": 107,
+      "width_cm": 8.8,
+      "height_cm": 4.4
+    },
+    {
+      "asset_id": "F07",
+      "anchor": "group2:after_context",
+      "question_ids": [
+        "G04",
+        "G05"
+      ],
+      "paragraph_index": 128,
+      "width_cm": 11.002774274905423,
+      "height_cm": 4.4
+    }
+  ]
+}
