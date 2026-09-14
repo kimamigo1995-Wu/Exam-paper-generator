@@ -1,0 +1,37 @@
+{
+  "questions": 25,
+  "types": {
+    "tf": 5,
+    "mc": 15,
+    "group": 5
+  },
+  "difficulty": {
+    "簡單": 10,
+    "中等": 10,
+    "困難": 5
+  },
+  "image_question_count": 10,
+  "unique_images": 7,
+  "unique_type_tags": 25,
+  "inline_images": 7,
+  "editable_tables": 3,
+  "prompts_removed": true,
+  "non_image_text_preserved": true,
+  "render_review": "passed",
+  "render_engine": "Microsoft Word PDF export plus PDFium rasterization",
+  "question_pages": 8,
+  "answer_pages": 3,
+  "all_pages_visually_reviewed": true,
+  "answer_positions": {
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "D": 5
+  },
+  "word_anchor_mapping_verified": true,
+  "teacher_review": "尚未由使用者或教師核准",
+  "docx_sha256": {
+    "生物第一冊_2-4生物體的組成層次_25題_答案解析卷.docx": "e43d01f90cd0434dc71e8fa1886f2fd2248ef107a46a2f60bbc1ba7ebbd454de",
+    "生物第一冊_2-4生物體的組成層次_25題_題目卷.docx": "67e33994dab6dc8ed39e335a8061efc211a9a31751da96a840db5c0a9571dab5"
+  }
+}
